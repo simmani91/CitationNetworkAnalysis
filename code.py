@@ -322,11 +322,11 @@ def Cited_count():
 		line = line + "\n"
 		f_out.write(line)
 
+def test():
+	print "in the server"
 #calc()
 #data_cutter()
-
 #cite_year_divider()
 #make_net() 
-Cited_count()
+#Cited_count()
 
-#
